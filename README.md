@@ -97,14 +97,3 @@ torchrun --nproc_per_node=<num gpus> --rdzv_backend=c10d train.py
 ## 📖 How to Cite
 
 If you use this code or data in your research, please cite it using the following BibTeX entry:
-
-```bibtex
-@misc{rivera2025scenariounderstandingtrafficscenes,
-      title={Scenario Understanding of Traffic Scenes Through Large Visual Language Models}, 
-      author={Esteban Rivera and Jannik Lübberstedt and Nico Uhlemann and Markus Lienkamp},
-      year={2025},
-      eprint={2501.17131},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2501.17131}, 
-}
