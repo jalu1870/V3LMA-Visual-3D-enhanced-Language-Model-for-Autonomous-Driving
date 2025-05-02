@@ -92,8 +92,19 @@ torchrun --nproc_per_node=<num gpus> --rdzv_backend=c10d train.py
 --pretrain_path none \
 --use_lora True \
 --lr 5e-5
-
+```
 
 ## 📖 How to Cite
 
 If you use this code or data in your research, please cite it using the following BibTeX entry:
+
+```bibtex
+@misc{lübberstedt2025v3lmavisual3denhancedlanguage,
+      title={V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving}, 
+      author={Jannik Lübberstedt and Esteban Rivera and Nico Uhlemann and Markus Lienkamp},
+      year={2025},
+      eprint={2505.00156},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.00156}, 
+}
