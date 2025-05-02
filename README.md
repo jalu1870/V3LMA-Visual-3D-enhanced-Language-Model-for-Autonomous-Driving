@@ -1,6 +1,8 @@
 # V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving 
 
-Evaluation code for the corresponding [paper](https://www.arxiv.org/abs/2505.00156) 🔬
+![App Screenshot](./assets/approach_overview_v1.png)
+
+Code for the corresponding [paper](https://www.arxiv.org/abs/2505.00156) 🔬
 
 ## Build Docker Image
 ```bash
