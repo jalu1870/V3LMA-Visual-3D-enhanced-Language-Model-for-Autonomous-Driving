@@ -24,7 +24,7 @@ docker run --gpus all -it --rm \
 ```
 
 ```bash
-cd vlm_scene_understanding/preprocess/
+cd preprocess/
 ```
 
 ## Download Grounded_SAM
