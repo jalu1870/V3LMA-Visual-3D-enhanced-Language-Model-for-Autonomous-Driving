@@ -65,6 +65,15 @@ wget https://github.com/ultralytics/assets/releases/download/v8.3.0/yolo11x.pt
 ```
 
 ## Data Preprocessing
+
+<p align="center">
+  <img src="./assets/preprocessing_v1-1.png" alt="Approach" >
+</p>
+<p align="center" style="font-size: 0.9em; color: #555;">
+  <em>Figure 3: Preprocessing</em>
+</p>
+
+
 ```bash
 python process.py --dataset_path "LingoQA/evaluation/images/val" \
 --dataset_parquet_path "LingoQA/evaluation/val.parquet" \
