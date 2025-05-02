@@ -1,6 +1,6 @@
 # V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving 
 
-<img src="assets/architecture.png" alt="Screenshot" width="500"/>
+![Short image description](./assets/preprocessing_v1-1.png)
 
 Code for the corresponding [paper](https://www.arxiv.org/abs/2505.00156) 🔬
 
