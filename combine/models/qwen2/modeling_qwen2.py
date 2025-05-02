@@ -1,4 +1,8 @@
 # coding=utf-8
+# modified modeling_qwen2.py file to account for 
+# architectural changes required to combine the models
+# below is the original copyright notice
+
 # Copyright 2024 The Qwen team, Alibaba Group and the HuggingFace Inc. team. All rights reserved.
 #
 # This code is based on EleutherAI's GPT-NeoX library and the GPT-NeoX

@@ -1,6 +1,9 @@
 
 from llava.model.language_model.llava_qwen import LlavaQwenForCausalLM
 # coding=utf-8
+# modified llava.py file to account for 
+# architectural changes required to combine the models
+# below is the original copyright notice
 # Copyright 2020 The Google AI Language Team Authors, Facebook AI Research authors and The HuggingFace Inc. team.
 # Copyright (c) 2020, NVIDIA CORPORATION.  All rights reserved.
 #
